@@ -1,0 +1,24 @@
+{
+  "name": "internet-fraud-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Extra-Practice-Code/internet-fraud-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Extra-Practice-Code/internet-fraud-data/issues"
+  },
+  "homepage": "https://github.com/Extra-Practice-Code/internet-fraud-data#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^1.1.8",
+    "pdf2table": "0.0.2"
+  }
+}
